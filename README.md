@@ -1,6 +1,6 @@
 # nvimConfig
 
-my minimalistic neovim config
+my minimalistic neovim config with lazy (as me) and catppuccin
 
 you can use it
 
